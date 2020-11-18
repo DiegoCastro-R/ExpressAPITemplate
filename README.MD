@@ -11,7 +11,7 @@
 
     - [Visual Studio Code: editor de texto com recursos avançados para desenvolvedores.](https://code.visualstudio.com/)
 
-2. Clonar o repositório git, entrar na pasta `frontend` e instalar dependências localmente usando o `npm`:
+2. Clonar o repositório git, entrar na pasta `ExpressAPITemplate` e instalar dependências localmente usando o `yarn`:
 
     - `git clone https://github.com/DiegoCastro-R/ExpressAPITemplate.git`
 
