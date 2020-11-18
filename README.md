@@ -1,0 +1,2 @@
+# ExpressAPITemplate
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e8d1dcc328f0469e8d78f669367a374a)](https://app.codacy.com/gh/DiegoCastro-R/ExpressAPITemplate?utm_source=github.com&utm_medium=referral&utm_content=DiegoCastro-R/ExpressAPITemplate&utm_campaign=Badge_Grade)
