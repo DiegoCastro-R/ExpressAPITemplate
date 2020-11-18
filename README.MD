@@ -1,4 +1,4 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/773653c722a541acb728f4d0952ed360)](https://www.codacy.com/gh/DiegoCastro-R/ExpressAPITemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DiegoCastro-R/ExpressAPITemplate&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/diegocastro-r/expressapitemplate/badge/master)](https://www.codefactor.io/repository/github/diegocastro-r/expressapitemplate/overview/master)
 ## Começando, Preparando e Executando o App
 
 1. Para execução deste projeto são necessárias as ferramentas:
