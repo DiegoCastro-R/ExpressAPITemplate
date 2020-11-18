@@ -24,7 +24,7 @@
     - `yarn dev:server`
 
 4. Executando em Container Docker:
-    `cd /ExpressAPITemplate`
+    - `cd /ExpressAPITemplate`
     - `docker-compose up -d`
 
 ## Features
